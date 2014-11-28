@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "summary": "Human readable Keyboard constants",
+    "repository": "https://github.com/jcollard/key-constants.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src/"
+    ],
+    "exposed-modules": ["Keyboard.Keys"],
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0"
+    }
+}
